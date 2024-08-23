@@ -2,7 +2,39 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Telemetry Management Portal</h1>
-    <img src="~/images/tech trends V2.png" height="50%" width="50%" />
+<div class="container mt-5">
+    <div class="text-center">
+        <h1 class="display-4 font-weight-bold text-primary">Telemetry Management Portal</h1>
+        <p class="lead text-secondary">Manage and monitor your telemetry data effortlessly</p>
+        <hr class="my-4">
+        <img src="~/images/tech trends V2.png" class="img-fluid rounded shadow-lg" alt="Tech Trends Logo" style="max-width: 400px;">
+    </div>
 </div>
+
+<style>
+    .container {
+        background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+        padding: 40px;
+        border-radius: 10px;
+        box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+        font-family: 'Roboto', sans-serif;
+        letter-spacing: 1px;
+    }
+
+    p.lead {
+        font-size: 1.25rem;
+        margin-top: 10px;
+    }
+
+    .img-fluid {
+        margin-top: 30px;
+        transition: transform 0.3s ease-in-out;
+    }
+
+    .img-fluid:hover {
+        transform: scale(1.05);
+    }
+</style>
