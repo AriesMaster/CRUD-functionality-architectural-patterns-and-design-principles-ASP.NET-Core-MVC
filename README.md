@@ -1,4 +1,4 @@
-# CMPG 323 Project 3 - 
+# Telemetry Management Portal
 
 ## Overview
 
