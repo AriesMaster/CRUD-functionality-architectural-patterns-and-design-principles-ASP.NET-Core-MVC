@@ -4,6 +4,9 @@
 
 This project involves enhancing an existing web application to manage CRUD functionality for project and client data. The focus is on applying architectural patterns and design principles to improve the application's codebase. This application is built using ASP.NET Core MVC and follows the repository pattern to separate data access logic from business logic.
 
+![Screenshot 2024-08-23 143846](https://github.com/user-attachments/assets/c0dd0d3b-a53f-4fc3-bd65-ef69dc39b1b5)
+
+
 
 ## Requirements
 
