@@ -24,7 +24,12 @@ namespace TelemetryPortal_MVC.Repositories
 
         public async Task<Client> GetClientByIdAsync(Guid id)
         {
-            return await _context.Clients.FindAsync(id);
+            var client = await _context.Clients.FindAsync(id);
+            if (client == null)
+            {
+                throw new InvalidOperationException("Client not found"); // Adjusting to match the non-nullable return type
+            }
+            return client;
         }
 
         public async Task AddClientAsync(Client client)
