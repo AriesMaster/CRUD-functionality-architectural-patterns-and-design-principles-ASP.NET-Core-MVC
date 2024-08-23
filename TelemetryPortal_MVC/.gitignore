@@ -1,6 +1,0 @@
-﻿# Ignore appsettings.json to avoid storing credentials on GitHub
-appsettings.json
-
-# Optional: Ignore any environment-specific appsettings files
-appsettings.Development.json
-appsettings.Production.json
