@@ -80,7 +80,11 @@ The repository classes are now used in the controllers:
 
 - **Microsoft Docs** (n.d.) *Secure a .NET web app with the ASP.NET Core Identity framework*. Available at: [https://learn.microsoft.com/en-us/aspnet/core/security/authentication/identity](https://learn.microsoft.com/en-us/aspnet/core/security/authentication/identity) (Accessed: 19 August 2024).
 
+
 - **C# Corner** (n.d.) *Design Patterns In C# .NET*. Available at: [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com) (Accessed: 19 August 2024).
 
 - **C# Corner** (n.d.) *Architectural Patterns in .NET*. Available at: [https://www.c-sharpcorner.com](https://www.c-sharpcorner.com) (Accessed: 19 August 2024).
+- 
+# Reference List Pdf 
 
+[Reference List.pdf](https://github.com/user-attachments/files/16740414/Reference.List.pdf)
